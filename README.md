@@ -59,8 +59,8 @@ print("Client stopped.")
 ```
 ## OUPUT
 Server:
-![alt text](<Screenshot (46).png>)
+![alt text](<2.b server.png>)
 Client:
-![alt text](<Screenshot (47).png>)
+![alt text](<2.b cli.png>)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
